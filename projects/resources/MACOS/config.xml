@@ -14,7 +14,7 @@
 	<KEY_RIGHT value="right" />
 	<KEY_START value="space" />
 
-	<!-- Use if you want to put your tracks somewhere special Must be absolute path -->
+	<!-- Use if you want to put your tracks somewhere special. Must be absolute path -->
 	<!--
     <ROOTFOLDER value="/Users/piggy/lgpt/"/>
     -->
